@@ -165,11 +165,10 @@ function Home() {
                                             <span className="fa fa-search" /></div>
                                     </a>
                                         <div className="text">
-                                            <h2 className="heading"><a href="#" target="_blank">YOU&amp;EYE ONLINE</a></h2>
+                                            <h2 className="heading"><a href="https://youandeyeonline.com" target="_blank">YOU&amp;EYE ONLINE</a></h2>
                                             <p>YouAndEyeOnline.com is primarily a business to business marketplace for opticians and brandowners to get together and transact.
                           End consumers interested in eyewear can browse through our collections as well to know which opticians stock their favourite products.</p>
-                                            {/*<p><a href="https://youandeyeonline.com"
-                                                    target="_blank">Live Site</a></p>*/}
+                                            <p><a href="https://youandeyeonline.com" target="_blank">Live Site</a></p>
                                         </div>
                                     </div>
                                     <div className="block-3 d-md-flex ftco-animate fadeInUp ftco-animated" data-scrollax-parent="true"><a href="https://popssoftware.com" className="image d-flex justify-content-center align-items-center" data-scrollax=" properties: { translateY: '-30%'}" target="_blank" style={{ backgroundImage: 'url("/assets/images/popssoftware.webp")', transform: 'translateZ(0px) translateY(25.7187%)' }}>
