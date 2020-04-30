@@ -160,7 +160,7 @@ function Home() {
                                     </div>
                                 </div>
                                 <div className="row no-gutters">
-                                    <div className="block-3 d-md-flex ftco-animate fadeInUp ftco-animated" data-scrollax-parent="true"><a href="#" className="image d-flex justify-content-center align-items-center" data-scrollax=" properties: { translateY: '-30%'}" target="_blank" style={{ backgroundImage: 'url("/assets/images/youandeyeonline.webp")', transform: 'translateZ(0px) translateY(25.1988%)' }}>
+                                    <div className="block-3 d-md-flex ftco-animate fadeInUp ftco-animated" data-scrollax-parent="true"><a href="https://youandeyeonline.com" className="image d-flex justify-content-center align-items-center" data-scrollax=" properties: { translateY: '-30%'}" target="_blank" style={{ backgroundImage: 'url("/assets/images/youandeyeonline.webp")', transform: 'translateZ(0px) translateY(25.1988%)' }}>
                                         <div className="icon d-flex text-center justify-content-center align-items-center">
                                             <span className="fa fa-search" /></div>
                                     </a>
