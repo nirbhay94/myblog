@@ -6,6 +6,7 @@ import Slider from '../Slider/Slider';
 import About from '../About/About';
 import Portfolio from '../Portfolio/Portfolio';
 import Footer from '../Footer/Footer';
+import Reviews from "../Reviews/Reviews";
 
 function Home() {
     return (
@@ -17,6 +18,7 @@ function Home() {
                     <Slider />
                     <About />
                     <Portfolio />
+                    <Reviews />
                     <Footer />
                 </div>
             </div>
