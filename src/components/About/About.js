@@ -13,10 +13,10 @@ const About = () => {
                         <h1 className="bold-text">About</h1>
                         <div className="p-5">
                             <h2 className="mb-5">Hi! I'm Nirbhay Kularia.</h2>
-                            <p>I am self-driven Web Developer and Open Source Contributor with four
+                            <p>I am self-driven Web Developer and Open Source Contributor with +5
                               years of experience in Web Development. Strong creative and
                               analytical skills. Team player with an eye for detail. Expertise:
-        Laravel, Angular, Vue JS, HTML, CSS, JavaScript and Jquery.</p>
+        Laravel, Angular, JavaScript, PostgreSQL/MySQL, AWS and Docker.</p>
                             <p><a id="resume" href="/assets/media/Resume.pdf" target="_blank">Check out my resume</a></p>
                         </div>
                     </div>
